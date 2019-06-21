@@ -1,0 +1,52 @@
+{
+  "name": "Mgc-Mnemonic",
+  "version": "1.0.0",
+  "description": "BIP39 Mnemonics implemented for Bitcore.",
+  "author": "Felix Lee(ustcerlf@gmail.com)",
+  "main": "index.js",
+  "scripts": {
+    "lint": "gulp lint",
+    "test": "gulp test",
+    "coverage": "gulp coverage",
+    "build": "gulp"
+  },
+  "contributors": [
+    {
+      "name": "Yemel Jardi",
+      "email": "angel.jardi@gmail.com"
+    },
+    {
+      "name": "Matias Alejo Garcia",
+      "email": "ematiu@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MagnaChain/Mgc-Mnemonic.git",
+  },
+  "keywords": [
+    "bitcoin",
+    "bitcore",
+    "mnemonic",
+    "crypto",
+    "cryptography",
+    "encryption"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "bitcore-build": "https://github.com/bitpay/bitcore-build.git#1023e8a99cd42b9241ccafe8e34c52f308c10284",
+    "brfs": "^2.0.1",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "Mgc-Corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git",
+    "unorm": "^1.4.1"
+  },
+  "peerDependencies": {
+    "Mgc-Corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git"
+  },
+  "__npminstall_done": "Fri Jun 21 2019 14:52:52 GMT+0800 (中国标准时间)",
+  "_from": "bitcore-mnemonic@1.7.0",
+  "_resolved": "https://registry.npm.taobao.org/bitcore-mnemonic/download/bitcore-mnemonic-1.7.0.tgz"
+}
