@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:arhaha/Mgc-Mnemonic.git",
+    "url": "https://github.com/arhaha/Mgc-Mnemonic",
   },
   "keywords": [
     "bitcoin",
