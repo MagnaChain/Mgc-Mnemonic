@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:MagnaChain/Mgc-Mnemonic.git",
+    "url": "git@github.com:arhaha/Mgc-Mnemonic.git",
   },
   "keywords": [
     "bitcoin",
@@ -40,11 +40,11 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "Mgc-Corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git",
+    "Mgc-Corelib": "git+ssh://git@github.com:arhaha/Mgc-Corelib.git",
     "unorm": "^1.4.1"
   },
   "peerDependencies": {
-    "Mgc-Corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git"
+    "Mgc-Corelib": "git+ssh://git@github.com:arhaha/Mgc-Corelib.git"
   },
   "__npminstall_done": "Fri Jun 21 2019 14:52:52 GMT+0800 (中国标准时间)",
   "_from": "bitcore-mnemonic@1.7.0",
