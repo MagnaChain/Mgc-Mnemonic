@@ -1,6 +1,6 @@
 {
-  "name": "Mgc-Mnemonic",
-  "version": "1.0.2",
+  "name": "mgc-mnemonic",
+  "version": "1.0.3",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "Felix Lee(ustcerlf@gmail.com)",
   "main": "index.js",
@@ -40,11 +40,11 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "Mgc-Corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git",
+    "mgc-corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git",
     "unorm": "^1.4.1"
   },
   "peerDependencies": {
-    "Mgc-Corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git"
+    "mgc-corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git"
   },
   "__npminstall_done": "Fri Jun 21 2019 14:52:52 GMT+0800 (中国标准时间)",
   "_from": "bitcore-mnemonic@1.7.0",
