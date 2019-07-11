@@ -1,6 +1,6 @@
 {
   "name": "mgc-mnemonic",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "Felix Lee(ustcerlf@gmail.com)",
   "main": "index.js",
